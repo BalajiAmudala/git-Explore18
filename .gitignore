@@ -1,0 +1,4 @@
+#tis is a comment 
+
+*.js
+!app.js
